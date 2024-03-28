@@ -1,6 +1,6 @@
 {
   "name": "websocket-libxwsj",
-  "version": "3.3.2",
+  "version": "3.3.3",
   "description": "This is a lightweight WebSocket library for Node.",
   "main": "index.js",
   "scripts": {
